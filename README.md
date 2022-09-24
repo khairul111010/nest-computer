@@ -45,6 +45,12 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
+## Generate module, service & controller
+
+$nest g module computer
+$nest g controller computer
+$nest g service computer
+
 ## Test
 
 ```bash
