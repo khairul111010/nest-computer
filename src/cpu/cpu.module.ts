@@ -6,5 +6,6 @@ import { CpuService } from './cpu.service';
   imports: [PowerModule],
   providers: [CpuService],
   controllers: [CpuController],
+  exports: [CpuService],
 })
 export class CpuModule {}
