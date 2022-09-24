@@ -47,9 +47,11 @@ $ npm run start:prod
 
 ## Generate module, service & controller
 
+```bash
 $nest g module computer
 $nest g controller computer
 $nest g service computer
+```
 
 ## Test
 
